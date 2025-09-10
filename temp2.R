@@ -5,7 +5,7 @@ print(a + b)
 
 print(a*a)
 
-print(a*a)
+print(a*b*b)
 
 print(b*b)
 
